@@ -22,7 +22,7 @@ Accounts Payable (AP) and Accounts Receivable (AR). Downloadable Operational Che
 
 # Download Accounts Payable (AP) Operational Controls Checklist (PDF)][(./Accounts%20Payables%20Department%20Checklists.pdf)](https://github.com/reshmaramsawak26-cloud/RESHMA-JAIKARAN/blob/main/Accounts%20Payables%20Department%20Checklists.pdf)
 
-# Download Accounts Receivable (AR) Operational Controls Checklist (PDF)](./Accounts%20Receivables%20Department%20Checklists.pdf)
+# Download Accounts Receivable (AR) Operational Controls Checklist (PDF)][(./Accounts%20Receivables%20Department%20Checklists.pdf)](https://github.com/reshmaramsawak26-cloud/RESHMA-JAIKARAN/blob/main/Accounts%20Receivables%20Department%20Checklists.pdf)
 
 
 # Key Operational Control Modules 
