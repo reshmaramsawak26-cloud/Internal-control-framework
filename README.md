@@ -1,7 +1,10 @@
-THE FINANCE DEPARTMENT INTERNAL CONTROL FRAMEWORK & CHECKLIST2026 
-Fraud Prevention & Financial Integrity Framework  
+THE FINANCE DEPARTMENT INTERNAL CONTROL FRAMEWORK & CHECKLIST
+
+2026 Fraud Prevention & Financial Integrity Framework  
 By Reshma Jaikaran, FAS-CrtForensic Accounting | Fraud Prevention | Internal Controls | Financial Risk  
+
 Executive Summary - Your finance department may be your organization's first line of defense against fraud—or its biggest vulnerability. In 2026, U.S. businesses face heightened exposure to check fraud, account takeover attacks, synthetic identity fraud, and AI-driven financial manipulation. These risks directly target core finance functions: payments, vendor management, payroll, cash handling, reconciliations, and financial reporting.  According to the Association for Financial Professionals (AFP) Payments Fraud and Control Survey (April 2026), U.S. financial institutions and businesses reported one of the largest spikes in fraud activity in over a decade:  
+
 Check Fraud: 63% of organizations reported check fraud attempts, heavily driven by check washing, counterfeit operations, and mail theft.  
 Debit Card Fraud: 75% of enterprises reported debit card fraud attempts, with financial losses trending sharply upward.  
 Account Takeover (ATO): ATO fraud increased 7% year-over-year, systematically exploiting weak multi-factor authentication.  
