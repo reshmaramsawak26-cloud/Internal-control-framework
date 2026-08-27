@@ -20,7 +20,7 @@ This framework provides actionable checklists across two of the highest-risk ope
 Accounts Payable (AP) and Accounts Receivable (AR). Downloadable Operational Checklists Access the standalone reference checklists to implement auditable internal controls across your AP and AR operations:
 
 
-# Download Accounts Payable (AP) Operational Controls Checklist (PDF)](./Accounts%20Payables%20Department%20Checklists.pdf)
+# Download Accounts Payable (AP) Operational Controls Checklist (PDF)][(./Accounts%20Payables%20Department%20Checklists.pdf)](https://github.com/reshmaramsawak26-cloud/RESHMA-JAIKARAN/blob/main/Accounts%20Payables%20Department%20Checklists.pdf)
 
 # Download Accounts Receivable (AR) Operational Controls Checklist (PDF)](./Accounts%20Receivables%20Department%20Checklists.pdf)
 
